@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Singampalli Venu Vardhan</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=venu-vardhan">
-    <img src="https://komarev.com/ghpvc/?username=venu-vardhan&label=Profile%20views&color=00FFFF&style=flat-square" alt="venu-vardhan's profile views" />
-  </a>
-</p>
 
-<img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
+
 
 ## 📌 About Me
 - Hi, I'm Venu Vardhan Singampalli
